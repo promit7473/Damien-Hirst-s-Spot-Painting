@@ -4,5 +4,6 @@ This project harnesses the power of Python to generate spot paintings reminiscen
 
 At its core, this project is a celebration of creativity and algorithmic artistry. Whether you're a seasoned artist seeking inspiration or a curious coder exploring the intersection of art and technology, the Spot Painting Generator offers a stimulating experience that sparks imagination and innovation.
 
-
-![image](https://github.com/promit7473/Damien-Hirst-s-Spot-Painting/assets/108547743/2bd59fe5-4bf4-47c8-8587-cf250bb69841)
+<p align="center">
+  <img src="[images/demo.gif](https://github.com/promit7473/Damien-Hirst-s-Spot-Painting/assets/108547743/2bd59fe5-4bf4-47c8-8587-cf250bb69841)" alt="Demo GIF" width="500">
+</p>
